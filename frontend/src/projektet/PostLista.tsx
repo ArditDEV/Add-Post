@@ -99,7 +99,9 @@ const PostLista = () => {
             </ListItem>
           ))}
         </List>
+        
       </Paper>
+      <footer style={{textAlign:"center"}}>©Ardit Bakalli</footer>
     </div>
   );
 }
