@@ -23,8 +23,8 @@ Installation:
 
 Contact:
 
-#-Gmail:arditbakallidev@gmail.com
-#-Linkedin: http://linkedin.com/in/ardit-bakalli-7b7657291
+-Gmail:arditbakallidev@gmail.com
+-Linkedin: http://linkedin.com/in/ardit-bakalli-7b7657291
 
 
 
