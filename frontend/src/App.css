@@ -1,0 +1,29 @@
+
+.paper{
+  margin: 60px;  
+  margin-left: 300px;
+  height: 400px;
+  width: 45rem;
+  
+  
+  }
+  
+  .input95{
+    background-color:black;
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-left: 40px;
+    width: 40rem;
+    
+    
+  }
+  /* .butoni95{ */
+    /* background-color: black; */
+    /* color: black; */
+  /* } */
+  
+  .lista95{
+    width: 40rem;
+    margin:2px
+  }
+   
